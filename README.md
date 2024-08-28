@@ -1,5 +1,5 @@
 ## Principal Component Analysis
-### PCA_on_Digits_DataSet
+### PCA_on_Digits_DataSet : Example taken in the Jupyter notebook 
 
 Principal Component Analysis, or PCA, is a fundamental technique in the realm of data analysis and machine learning. It plays a pivotal role in reducing the dimensionality of complex datasets, simplifying their interpretation, and enhancing computational efficiency.
 
